@@ -68,8 +68,9 @@ Run the search:
 ```bash
 cd src
 python search.py
-~~~~~~
-💬 Prompt Example
+
+💬 Prompt Example:-
+
 bash
 Copy
 Edit
